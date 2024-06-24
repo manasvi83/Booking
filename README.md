@@ -30,8 +30,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd flight-booking-system
+   git clone https://github.com/manasvi83/Booking.git
+   cd <repo-name>
 2. Install dependencies:
 
 ```bash
