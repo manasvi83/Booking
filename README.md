@@ -1,6 +1,6 @@
 # Flight Booking System
 
-This repository contains a flight booking system built with ReactJS. The system allows users to search for flights, book tickets, and manage their bookings.
+This repository contains a flight booking system built with ReactJS. The system allows users to book tickets for specific dates flights, and manage their bookings.
 
 ## Screenshots
 
@@ -32,3 +32,24 @@ To run this project locally, follow these steps:
    ```bash
    git clone <repository_url>
    cd flight-booking-system
+2. Install dependencies:
+
+```bash
+   npm install
+```
+3.Start the development server:
+
+```bash
+
+    npm start
+```
+4. Open your browser and navigate to http://localhost:3000 to view the application.
+
+## Technologies Used
+
+    ReactJS
+    CSS 
+
+##Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
