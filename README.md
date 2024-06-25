@@ -46,10 +46,8 @@ To run this project locally, follow these steps:
 4. Open your browser and navigate to http://localhost:3000 to view the application.
 
 ## Technologies Used
-
-    ReactJS
-    CSS 
-
-##Contributing
-
+   ReactJS 
+   CSS 
+   
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
